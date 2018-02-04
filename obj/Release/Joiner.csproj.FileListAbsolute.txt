@@ -1,0 +1,8 @@
+C:\Users\admin\Desktop\JoinerNsis\Joiner\Joiner\bin\Release\Joiner.exe
+C:\Users\admin\Desktop\JoinerNsis\Joiner\Joiner\bin\Release\Joiner.pdb
+C:\Users\admin\Desktop\JoinerNsis\Joiner\Joiner\obj\Release\Joiner.Joiner.resources
+C:\Users\admin\Desktop\JoinerNsis\Joiner\Joiner\obj\Release\Joiner.Properties.Resources.resources
+C:\Users\admin\Desktop\JoinerNsis\Joiner\Joiner\obj\Release\Joiner.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\JoinerNsis\Joiner\Joiner\obj\Release\Joiner.exe
+C:\Users\admin\Desktop\JoinerNsis\Joiner\Joiner\obj\Release\Joiner.pdb
+C:\Users\admin\Desktop\JoinerNsis\Joiner\Joiner\obj\Release\Joiner.csprojResolveAssemblyReference.cache
