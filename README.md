@@ -1,7 +1,7 @@
 # Joiner
 
 ![](https://d.radikal.ru/d38/1802/0a/a5a99101a6dd.png)
-![](https://d.radikal.ru/d05/1802/c9/03c3d30ab88f.gif)
+![](https://i.imgur.com/2ooqKzZ.gif)
 
 ### Описание:
 Склеивание файлов через NSIS installer. Возможность выбора иконки. Запуск с правами администратора или пользователя.
